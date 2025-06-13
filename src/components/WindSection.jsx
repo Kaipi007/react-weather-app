@@ -1,6 +1,6 @@
 
 import React from 'react';
-import windIconImage from '../img/windSection_wind.png'; 
+import windIconImage from '../img/WindSection_wind.png'; 
 
 function WindSection({ hourly, units }) {
     if (
