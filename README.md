@@ -1,6 +1,6 @@
 # React Weather App
 
-![React Weather App Screenshot](https://via.placeholder.com/800x450?text=Screenshot+of+Weather+App)
+![React Weather App - Mobile & Web](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/web%20version.png)
 
 🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
 
