@@ -1,4 +1,6 @@
-# React Weather App
+# React Weather App - Mobile & Web
+
+## Screenshots
 
 ### Web Version
 ![React Weather App - Web Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/web%20version.png)
@@ -6,7 +8,14 @@
 ### Mobile Version
 ![React Weather App - Mobile Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/mobile%20version.png)
 
-🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
+*(**Tip:** For an even cleaner presentation, you could combine these two screenshots into a single image that shows both the web and mobile views side-by-side or stacked!)*
+
+## Live Demo
+
+🚀 **View Live Demo:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
+*(**IMPORTANT:** Replace `https://your-live-demo-link.com` with the actual URL where your application is deployed, e.g., Netlify, Vercel, GitHub Pages.)*
+
+This application is designed to be fully responsive and works seamlessly on both mobile and web browsers.
 
 ## Table of Contents
 
@@ -24,7 +33,7 @@
 
 ## About the Project
 
-This project is a modern and responsive weather application built with React. It provides users with current weather conditions, daily forecasts, and hourly predictions for various locations. The goal is to deliver an intuitive and user-friendly interface for checking weather information.
+This project is a modern and responsive weather application built with React. It provides users with current weather conditions, daily forecasts, and hourly predictions for various locations. The goal is to deliver an intuitive and user-friendly interface for checking weather information, **accessible on both mobile devices and web browsers.**
 
 ## Features
 
@@ -33,6 +42,7 @@ This project is a modern and responsive weather application built with React. It
 * **Hourly Forecast:** Offers detailed hourly weather predictions.
 * **Location Search:** Allows users to search for weather information by city or location.
 * **Dynamic UI Updates:** Responds to user input and API data seamlessly.
+* **Responsive Design:** Optimized for viewing on a wide range of devices, from small mobile screens to large desktop monitors.
 * **Intuitive Weather Icons/Animations:** Uses a variety of custom icons/animations (like `clear_sky.png`, `rain.png`, `cat.png`, etc.) to visually represent weather conditions.
 * *(Add any other specific features your app might have, e.g., unit conversion, etc.)*
 
@@ -87,7 +97,6 @@ Ensure you have the following installed:
 
 This project follows a standard React application structure, organized for modularity and maintainability.
 
-
 react-weather-app/
 ├── public/                     # Public assets served directly by the web server
 │   └── ...
@@ -123,14 +132,17 @@ react-weather-app/
 │   ├── main.jsx                # Entry point for React DOM rendering
 │   └── ... (other files, e.g., hooks, utilities)
 ├── .gitignore                  # Specifies intentionally untracked files to ignore
+├── eslint.config.js            # ESLint configuration file
 ├── index.html                  # The main HTML file served by Vite
 ├── mobile version.png          # Screenshot for the mobile version
+├── package-lock.json           # Lock file for npm dependencies
 ├── package.json                # Defines project metadata and scripts
 ├── postcss.config.js           # Configuration for PostCSS, often used with Tailwind CSS
 ├── tailwind.config.js          # Tailwind CSS configuration file
 ├── vite.config.js              # Vite build configuration file
 ├── web version.png             # Screenshot for the web version
 └── README.md                   # Project README file
+
 
 ## Contributing
 
