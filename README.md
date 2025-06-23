@@ -12,8 +12,8 @@
 
 ## Live Demo
 
-🚀 **View Live Demo:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
-*(**IMPORTANT:** Replace `https://your-live-demo-link.com` with the actual URL where your application is deployed, e.g., Netlify, Vercel, GitHub Pages.)*
+🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
+*Deployed on CloudFlare*
 
 This application is designed to be fully responsive and works seamlessly on both mobile and web browsers.
 
@@ -189,7 +189,6 @@ SOFTWARE.
 * [React Documentation](https://reactjs.org/docs)
 * [Vite Documentation](https://vitejs.dev/guide/)
 * [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-* *(Any other tutorials, resources, or libraries that were particularly helpful)*
 
 ## Contact
 
