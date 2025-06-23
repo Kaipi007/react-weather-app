@@ -8,8 +8,6 @@
 ### Mobile Version
 ![React Weather App - Mobile Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/mobile%20version.png)
 
-*(**Tip:** For an even cleaner presentation, you could combine these two screenshots into a single image that shows both the web and mobile views side-by-side or stacked!)*
-
 ## Live Demo
 
 🚀 **View Live Demo:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
