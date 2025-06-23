@@ -120,10 +120,12 @@ react-weather-app/
 │   └── ... (other files, e.g., hooks, utilities)
 ├── .gitignore                  # Specifies intentionally untracked files to ignore
 ├── index.html                  # The main HTML file served by Vite
+├── mobile version.png          # Screenshot for the mobile version
 ├── package.json                # Defines project metadata and scripts
 ├── postcss.config.js           # Configuration for PostCSS, often used with Tailwind CSS
 ├── tailwind.config.js          # Tailwind CSS configuration file
 ├── vite.config.js              # Vite build configuration file
+├── web version.png             # Screenshot for the web version
 └── README.md                   # Project README file
 
 
