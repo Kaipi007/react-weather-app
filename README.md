@@ -1,6 +1,10 @@
 # React Weather App
 
-![React Weather App - Mobile & Web](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/web%20version.png)
+### Web Version
+![React Weather App - Web Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/web%20version.png)
+
+### Mobile Version
+![React Weather App - Mobile Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/mobile%20version.png)
 
 🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
 
@@ -127,7 +131,6 @@ react-weather-app/
 ├── vite.config.js              # Vite build configuration file
 ├── web version.png             # Screenshot for the web version
 └── README.md                   # Project README file
-
 
 ## Contributing
 
