@@ -1,4 +1,3 @@
-
 # React Weather App - Mobile & Web
 
 ## Screenshots
@@ -8,6 +7,7 @@
 
 ### Mobile Version
 ![React Weather App - Mobile Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/mobile%20version.png)
+
 
 ## Live Demo
 
@@ -44,6 +44,7 @@ This project is a modern and responsive weather application built with React. It
 * **Responsive Design:** Optimized for viewing on a wide range of devices, from small mobile screens to large desktop monitors.
 * **Intuitive Weather Icons/Animations:** Uses a variety of custom icons/animations (like `clear_sky.png`, `rain.png`, `cat.png`, etc.) to visually represent weather conditions.
 
+
 ## Technologies Used
 
 * **Frontend:**
@@ -73,7 +74,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Kaipi007/react-weather-app.git](https://github.com/Kaipi007/react-weather-app.git)
+    git clone https://github.com/Kaipi007/react-weather-app.git
     ```
 2.  **Navigate into the project directory:**
     ```bash
@@ -96,12 +97,12 @@ Ensure you have the following installed:
 This project follows a standard React application structure, organized for modularity and maintainability.
 
 react-weather-app/
-├── public/                     # Public assets
+├── public/
 │   └── ...
-├── src/                        # Application source code
-│   ├── assets/                 # General static assets
+├── src/
+│   ├── assets/
 │   │   └── react.svg
-│   ├── components/             # Reusable UI components
+│   ├── components/
 │   │   ├── CatAnimation.jsx
 │   │   ├── CurrentWeatherCard.jsx
 │   │   ├── DailyForecast.jsx
@@ -111,7 +112,7 @@ react-weather-app/
 │   │   ├── LocationSearch.jsx
 │   │   ├── PrecipitationSection.jsx
 │   │   └── WindSection.jsx
-│   ├── img/                    # Weather-related images
+│   ├── img/
 │   │   ├── WindSection_wind.png
 │   │   ├── cat.png
 │   │   ├── clear_sky.png
@@ -124,22 +125,24 @@ react-weather-app/
 │   │   ├── snow.png
 │   │   ├── sun.png
 │   │   └── under.png
-│   ├── App.css                 # Main application CSS
-│   ├── App.jsx                 # Main App component
-│   ├── index.css               # Global styles
-│   ├── main.jsx                # React entry point
-│   └── ... (other files, e.g., hooks, utilities)
-├── .gitignore                  # Git ignore file
-├── eslint.config.js            # ESLint config
-├── index.html                  # Main HTML file
-├── mobile version.png          # Mobile screenshot
-├── package-lock.json           # npm lock file
-├── package.json                # Project dependencies
-├── postcss.config.js           # PostCSS config
-├── tailwind.config.js          # Tailwind CSS config
-├── vite.config.js              # Vite build config
-├── web version.png             # Web screenshot
-└── README.md                   # Project README
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── ...
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── mobile version.png
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+├── web version.png
+└── README.md
+
+
 
 
 ## Contributing
