@@ -95,10 +95,10 @@ Ensure you have the following installed:
 This project follows a standard React application structure, organized for modularity and maintainability.
 
 react-weather-app/
-├── public/                     # Public assets
+├── public/                     # Public assets served directly by the web server
 │   └── ...
-├── src/                        # Application source code
-│   ├── assets/                 # General static assets
+├── src/                        # Source code for the React application
+│   ├── assets/                 # General static assets, e.g., SVG logos
 │   │   └── react.svg
 │   ├── components/             # Reusable UI components
 │   │   ├── CatAnimation.jsx
@@ -110,7 +110,7 @@ react-weather-app/
 │   │   ├── LocationSearch.jsx
 │   │   ├── PrecipitationSection.jsx
 │   │   └── WindSection.jsx
-│   ├── img/                    # Weather-related images
+│   ├── img/                    # Specific image assets for weather conditions or UI elements
 │   │   ├── WindSection_wind.png
 │   │   ├── cat.png
 │   │   ├── clear_sky.png
@@ -123,22 +123,18 @@ react-weather-app/
 │   │   ├── snow.png
 │   │   ├── sun.png
 │   │   └── under.png
-│   ├── App.css                 # Main application CSS
-│   ├── App.jsx                 # Main App component
-│   ├── index.css               # Global styles
-│   ├── main.jsx                # React entry point
+│   ├── App.css                 # Main application-wide CSS
+│   ├── App.jsx                 # Main application component, handles routing and layout
+│   ├── index.css               # Global styles and CSS resets
+│   ├── main.jsx                # Entry point for React DOM rendering
 │   └── ... (other files, e.g., hooks, utilities)
-├── .gitignore                  # Git ignore file
-├── eslint.config.js            # ESLint config
-├── index.html                  # Main HTML file
-├── mobile version.png          # Mobile screenshot
-├── package-lock.json           # npm lock file
-├── package.json                # Project dependencies
-├── postcss.config.js           # PostCSS config
-├── tailwind.config.js          # Tailwind CSS config
-├── vite.config.js              # Vite build config
-├── web version.png             # Web screenshot
-└── README.md                   # Project README
+├── .gitignore                  # Specifies intentionally untracked files to ignore
+├── index.html                  # The main HTML file served by Vite
+├── package.json                # Defines project metadata and scripts
+├── postcss.config.js           # Configuration for PostCSS, often used with Tailwind CSS
+├── tailwind.config.js          # Tailwind CSS configuration file
+├── vite.config.js              # Vite build configuration file
+└── README.md                   # Project README file
 
 
 
