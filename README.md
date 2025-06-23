@@ -44,7 +44,6 @@ This project is a modern and responsive weather application built with React. It
 * **Dynamic UI Updates:** Responds to user input and API data seamlessly.
 * **Responsive Design:** Optimized for viewing on a wide range of devices, from small mobile screens to large desktop monitors.
 * **Intuitive Weather Icons/Animations:** Uses a variety of custom icons/animations (like `clear_sky.png`, `rain.png`, `cat.png`, etc.) to visually represent weather conditions.
-* *(Add any other specific features your app might have, e.g., unit conversion, etc.)*
 
 ## Technologies Used
 
@@ -56,7 +55,7 @@ This project is a modern and responsive weather application built with React. It
     * HTML5
     * CSS3
 * **API:**
-    * [Open-Meteo](https://open-meteo.com/) - For fetching weather data. *(Open-Meteo typically does not require an API key for basic usage, but if you're using a specific feature that does, please add a note about it).*
+    * [Open-Meteo](https://open-meteo.com/) - For fetching weather data. *(Open-Meteo typically does not require an API key for basic usage).*
 * **Package Manager:**
     * [npm](https://www.npmjs.com/)
 
