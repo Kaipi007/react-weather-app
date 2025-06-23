@@ -1,5 +1,10 @@
 # React Weather App - Mobile & Web
 
+## Live Demo
+
+🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
+*Deployed on CloudFlare*
+
 ## Screenshots
 
 ### Web Version
@@ -8,12 +13,6 @@
 ### Mobile Version
 ![React Weather App - Mobile Version](https://raw.githubusercontent.com/Kaipi007/react-weather-app/main/mobile%20version.png)
 
-*(**Tip:** For an even cleaner presentation, you could combine these two screenshots into a single image that shows both the web and mobile views side-by-side or stacked!)*
-
-## Live Demo
-
-🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
-*Deployed on CloudFlare*
 
 This application is designed to be fully responsive and works seamlessly on both mobile and web browsers.
 
