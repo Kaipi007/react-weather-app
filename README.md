@@ -11,8 +11,8 @@
 
 ## Live Demo
 
-🚀 **View Live Demo:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
-*(**IMPORTANT:** Replace `https://your-live-demo-link.com` with the actual URL where your application is deployed, e.g., Netlify, Vercel, GitHub Pages.)*
+🚀 **View Live Demo:** [https://react-weather-app-aob.pages.dev/]
+Deployed with CloudFlare
 
 This application is designed to be fully responsive and works seamlessly on both mobile and web browsers.
 
@@ -55,7 +55,7 @@ This project is a modern and responsive weather application built with React. It
     * HTML5
     * CSS3
 * **API:**
-    * [Open-Meteo](https://open-meteo.com/) - For fetching weather data. *(Open-Meteo typically does not require an API key for basic usage, but if you're using a specific feature that does, please add a note about it).*
+    * [Open-Meteo](https://open-meteo.com/) - For fetching weather data. *(Open-Meteo typically does not require an API key for basic usage).*
 * **Package Manager:**
     * [npm](https://www.npmjs.com/)
 
